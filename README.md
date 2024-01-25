@@ -1,1 +1,1 @@
-# admin_template
+# Template for admin
